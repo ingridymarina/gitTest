@@ -5,3 +5,4 @@ Primeiro arquivo do curso - novaBranch
 Primeiro arquivo do curso - novaBranch
 adicionei mais uma linha - novaBranch
 
+adicionei mais uma linha para o exercício do rebase - master
