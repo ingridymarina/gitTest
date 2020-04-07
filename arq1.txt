@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Primeiro arquivo do curso - master
-=======
 Primeiro arquivo do curso - novaBranch
->>>>>>> novaBranch
+
