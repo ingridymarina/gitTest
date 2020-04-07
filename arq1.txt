@@ -1,3 +1,7 @@
+
 Primeiro arquivo do curso - master
 Primeiro arquivo do curso - novaBranch
+
+Primeiro arquivo do curso - novaBranch
+adicionei mais uma linha - novaBranch
 
